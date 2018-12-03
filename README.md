@@ -9,3 +9,5 @@ Notebooks on methods for causal inference
 - [Instrumental variables](https://youtu.be/mnBbzGU6vyE)
 - [Three strategies to estimate causal effects](https://www.youtube.com/watch?v=COPf8H-rnPo)
 
+**See also**
+- Ben Lambert: [A full course on econometrics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
