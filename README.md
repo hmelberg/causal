@@ -2,6 +2,12 @@
 Notebooks on methods for causal inference
 (Work in progress)
 
+There are two types of notebooks (above, click on the title to view it)
+- Summary of theory (brief)
+- Detailed empirical examples applying the theory
+
+Below are links to some unpolished YouTube videos with very brief summaries of the topics.
+
 **Brief intro/review lectures**
 - [Intro to causal inference](https://youtu.be/PRdMIPyIdrQ)
 - [Potential outcome model](https://youtu.be/E2XzFcDHMzQ)
