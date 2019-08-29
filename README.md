@@ -15,11 +15,16 @@ Below are links to some unpolished YouTube videos with very brief summaries of t
 - [Instrumental variables](https://youtu.be/mnBbzGU6vyE)
 - [Three strategies to estimate causal effects](https://www.youtube.com/watch?v=COPf8H-rnPo)
 
+
+
 **See also**
 - Ben Lambert: [A full course in econometrics](https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU)
 
 **Useful links**
 - Microsoft: [DoWhy](https://microsoft.github.io/dowhy/)
+- Microsoft: [EconML](https://github.com/microsoft/EconML)
+- Uber: [CausalML](https://github.com/uber/causalml)
+
 - Laurence Wong: [Causal inference in Python](http://causalinferenceinpython.org/)
 - Dafiti: [Causal impact](https://github.com/dafiti/causalimpact)
 - Yusuke Minami: [CausalLift](https://github.com/Minyus/causallift)
@@ -39,7 +44,7 @@ My understanding of Causality comes mainly from the reading of the follow work:
  - [Jonas Peters' lecture notes](http://www.math.ku.dk/~peters/jonas_files/scriptChapter1-4.pdf), Jonas Peters
  - [Elements of Causal Inference](http://www.math.ku.dk/~peters/jonas_files/bookDRAFT5-online-2017-02-27.pdf)
  - [Lecture notes on causality](http://mlss.tuebingen.mpg.de/2017/speaker_slides/Causality.pdf)
-
+https://github.com/microsoft/EconML
 
 
 
