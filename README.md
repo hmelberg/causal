@@ -6,6 +6,8 @@ There are two types of notebooks (above, click on the title to view it)
 - Summary of theory (brief)
 - Detailed empirical examples applying the theory
 
+Lauch notebooks: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hmelberg/causal/master)
+
 Below are links to some unpolished YouTube videos with very brief summaries of the topics.
 
 **Brief intro/review lectures**
