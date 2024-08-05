@@ -15,7 +15,7 @@ Below are links to some unpolished YouTube videos with very brief summaries of t
 - [Potential outcome model](https://youtu.be/E2XzFcDHMzQ)
 - [Propensity score matching](https://youtu.be/-ZYJJExgPLo)
 - [Instrumental variables](https://youtu.be/mnBbzGU6vyE)
-- [Difference-in-Difference (Applied)](https://youtu.be/mnBbzGU6vyE)
+- [Difference-in-Difference (Applied)](https://www.youtube.com/watch?v=EgIU1_qZ5Lc)
 - [Three strategies to estimate causal effects](https://www.youtube.com/watch?v=COPf8H-rnPo)
 
 
